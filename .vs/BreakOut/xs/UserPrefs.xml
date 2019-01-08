@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{96F981D8-A23E-8122-F301-A6DAE320AF66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ball.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LoseCollider.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="11" Column="17" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="44" Column="76" />
+      <File FileName="Assets/Scripts/ButtonClick.cs" Line="19" Column="3" />
+      <File FileName="Assets/Scripts/Manager.cs" Line="116" Column="43" />
+      <File FileName="../../SnakeGame/Assets/Scripts/SnakeMovement.cs" Line="82" Column="45" />
+      <File FileName="../../SnakeGame/Assets/Scripts/BonusGeneration.cs" Line="55" Column="9" />
+      <File FileName="Assets/Scripts/HighScore.cs" Line="4" Column="22" />
+      <File FileName="Assets/Scripts/Score.cs" Line="10" Column="27" />
+      <File FileName="Assets/Scripts/DeleteCurrentScore.cs" Line="13" Column="33" />
+      <File FileName="Assets/Scripts/Score1.cs" Line="25" Column="35" />
+      <File FileName="Assets/Scripts/Brick.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Score2.cs" Line="25" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
